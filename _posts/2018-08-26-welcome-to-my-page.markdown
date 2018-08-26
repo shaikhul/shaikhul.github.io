@@ -1,15 +1,8 @@
 ---
 layout: post
-title:  "Welcome to My Page!"
-date:   2018-08-26 02:15:05 -0400
-categories: personal
+title:  "Welcome to my Page!"
+date:   2018-08-26 02:50:00
+categories: random
 ---
-{% highlight python %}
-def print_hi(name):
-  print "Hi, {name}".format(name=name)
 
-if __name__ == "__main__":
-  print_hi('Tom')
-  # prints 'Hi, Tom' to STDOUT.
-
-{% endhighlight %}
+This is my first post on Jekyll, just editing the default post that comes with the layout.
