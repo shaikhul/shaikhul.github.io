@@ -66,7 +66,7 @@ $ go test -v
 PASS
 ok      main/hello  0.029s
 ```
-We can also specify a substring of specific test function `go test -v -run="Hello" and test runner will look for test functions that uses the substring
+We can also specify a substring of specific test function `go test -v -run="Hello"` and test runner will look for test functions that uses the substring
 ```sh
 $ go test -v -run="Hello"
 === RUN   TestHello
