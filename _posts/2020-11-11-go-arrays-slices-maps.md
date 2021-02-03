@@ -2,7 +2,7 @@
 layout: post
 title:  "Go Basics: Arrays, Slices and Maps"
 date:   2020-11-11 14:00:00
-categories: go, array, slice, map
+categories: go
 ---
 ### Go Arrays, Slices and Maps
 

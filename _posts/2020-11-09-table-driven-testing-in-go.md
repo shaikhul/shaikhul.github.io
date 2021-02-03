@@ -2,7 +2,7 @@
 layout: post
 title:  "Testing in Go"
 date:   2020-11-09 23:00:00
-categories: pointer, go, testing
+categories: go
 ---
 Go testing support is awesome. It has a subcommand `go test` that looks for `*_test.go` files in package folder and run all test functions that starts with `Test*` prefix and report success or error.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Pointers in Go"
 date:   2020-11-05 23:00:00
-categories: pointer, go
+categories: go
 ---
 
 Go is a call-by-value language, meaning it will use a copy of each function arguments,  if we want to update a variable we need to pass its address using a pointer.

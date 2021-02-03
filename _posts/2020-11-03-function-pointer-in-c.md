@@ -2,7 +2,7 @@
 layout: post
 title:  "Function Pointer in C"
 date:   2020-11-03 20:46:00
-categories: pointer, c
+categories: c
 ---
 
 Pointers in C are powerful and confusing at the same time. As we can point a pointer to structs, strings or arrays, we can point to function.
