@@ -4,7 +4,7 @@ title:  "Back to basics - Python"
 date:  2021-01-30 12:50:00
 categories: python
 ---
-# Python Cheetsheet
+This is part 1 of back to basics series. Today's topic is python. Let's dive into code!
 ### Numbers - int, float, complex
 ```python
 year = 2021
