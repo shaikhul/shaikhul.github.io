@@ -8,7 +8,7 @@ permalink: /resume/
 shaikhul.net@gmail.com <br>
 (678) 367-9485 <br>
 Atlanta, GA <br>
-[LinkedIn](linkedin.com/in/shaikhul) | [Github](github.com/shaikhul) | [SO](https://stackoverflow.com/users/story/2533037)
+[LinkedIn](https://linkedin.com/in/shaikhul) | [Github](https://github.com/shaikhul) | [Stack Overflow](https://stackoverflow.com/users/story/2533037) | [DEV](https://dev.to/shaikhul)
 
 ## Specialities:
 - SAAS application development, API development, relational database design, troubleshooting codebases, write testable code and build data pipeline
