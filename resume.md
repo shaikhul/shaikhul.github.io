@@ -17,7 +17,8 @@ Atlanta, GA <br>
 ## Professional Experience: 
 **[Mailchimp](mailchimp.com)** | Atlanta, GA <br>
 _Senior Software Engineer_, _May 2019 - Present_ <br>
-- Troubleshoot Mandrill(now mailchimp transactioanl) production issues, write technical documents for Mandrill legacy codebases.
+- Working on mailchimp commerce product, my focus area is gRPC service development, google pubsub event pipeline.
+- Troubleshoot production issues, write technical documents for Mandrill legacy codebases.
 - Identify/Improve Mandrill web-app/api performance issues.
 
 **[Mailchimp](mailchimp.com)** | Atlanta, GA <br>
