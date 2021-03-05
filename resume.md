@@ -30,7 +30,7 @@ _Software Engineer_, _May 2015 - Jan 2016_ <br>
 - Build product features for Logfire's warehouse management web application and API.
 
 **[Newscred](newscred.com)** | Ney York, NY <br>
-_Software Engineer_, _Jan 2013 - Jan 2016_ <br>
+_Software Engineer_, _Jan 2013 - April 2015_ <br>
 - Worked on NewsCred CMS and marketing cloud platform product to build new features.
 
 ## Education:
